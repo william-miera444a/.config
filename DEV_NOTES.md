@@ -21,3 +21,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-29
 - Checked for memory leaks in long-running path
 - Updated license year
+
+## 2026-04-29
+- Added CONTRIBUTING.md stub
+- Added healthcheck endpoint stub
+- Added basic usage examples to README
